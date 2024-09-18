@@ -30,11 +30,9 @@ Below are screenshots of the project:
 | Screenshot | Description |
 |------------|-------------|
 | ![Login Screen](https://github.com/user-attachments/assets/5d9ce6dc-daff-4217-85df-079e1a2b7c3d) | Login Screen for User Authentication |
-| ![Room Listings](https://github.com/user-attachments/assets/3923fc77-422d-486e-8780-53e5bc4a3f94) | Browse available rooms 
-
-| ![Booking Management](https://github.com/user-attachments/assets/c6ffbbb5-3268-471f-b18f-2758f87cd47d) | Admin Booking Management Panel 
-
-| ![Room Booking](https://github.com/user-attachments/assets/da76c804-d628-45f5-af1b-0a922a551a37)| Room Booking Screen with Calendar 
+| ![Room Listings](https://github.com/user-attachments/assets/3923fc77-422d-486e-8780-53e5bc4a3f94) | Browse available rooms |
+| ![Booking Management](https://github.com/user-attachments/assets/c6ffbbb5-3268-471f-b18f-2758f87cd47d) | Admin Booking Management Panel |
+| ![Room Booking](https://github.com/user-attachments/assets/da76c804-d628-45f5-af1b-0a922a551a37) | Room Booking Screen with Calendar |
 
 
 ## Project Structure

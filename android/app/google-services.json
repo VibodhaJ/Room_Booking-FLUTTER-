@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13742574925",
+    "project_id": "roombooking-f4b89",
+    "storage_bucket": "roombooking-f4b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13742574925:android:97b91176cbc13bef42fb04",
+        "android_client_info": {
+          "package_name": "com.example.roombooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDur3gCIE03E8ROIti4DyJImjf8Czb8iXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

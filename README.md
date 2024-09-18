@@ -29,7 +29,7 @@ Below are screenshots of the project:
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Login Screen](path/to/login_screen.png) | Login Screen for User Authentication |
+| ![Login Screen](https://github.com/user-attachments/assets/5d9ce6dc-daff-4217-85df-079e1a2b7c3d) | Login Screen for User Authentication |
 | ![Room Listings](path/to/room_listings.png) | Browse available rooms |
 | ![Booking Management](path/to/booking_management.png) | Admin Booking Management Panel |
 | ![Room Booking](path/to/room_booking.png) | Room Booking Screen with Calendar |
